@@ -6,6 +6,6 @@ Using python Open windows App
 
 > mention the app Target name after `python pyRunApp.py` as below:
 ```cmd
-python pyRunApp.py vlc
+python pyOpenApp.py vlc
 ```
 > Press ENTER
